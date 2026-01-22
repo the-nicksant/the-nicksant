@@ -7,6 +7,6 @@ I like hearing directly from users about their pains so I can find the best ways
 I'm loving building my own projects and you can check the progress of some of them:
 
 - 🥊 [Rankor](https://rankor.com.br)
-- 💄 Vera (in progress)
+- 💄 [Vera](https://vera.app.br)
 
 
